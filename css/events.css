@@ -1,0 +1,28 @@
+.events{
+	width: 45%;
+	border: 2px solid red;
+	float: left;
+	margin: 2px;
+	height: 350px;
+}
+
+.events p{
+	color: white;
+	font-size: 20px;
+	display: none;
+
+}
+
+ #e1{
+	background-image: url("../img/pro.jpg");
+	background-size: cover;
+}
+ #e2{
+	background-image: url("../img/pro1.jpg");
+	background-size: cover;
+}
+
+ #e3{
+	background-image: url("../img/pro2.jpg");
+	background-size: cover;
+}

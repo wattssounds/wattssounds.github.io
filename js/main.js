@@ -23,15 +23,7 @@ $(document).ready(function(){
 
 	});
 
-
-
-
-
-
-
-
-
-
+	
 
 
 });
